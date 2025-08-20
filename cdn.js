@@ -95,7 +95,7 @@
       position: fixed;
       bottom: 10px;
       right: 10px;
-      z-index: 1000;
+      z-index: 1000000;
       max-width: 100%;
       max-height: 100%;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
